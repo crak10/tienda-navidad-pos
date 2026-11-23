@@ -30,4 +30,4 @@ Sistema web completo (Full Stack) diseñado a medida para la gestión de ventas 
 5. Crea tu usuario administrador inicial (ejecutando un script o insertando el hash de la contraseña directamente en la BD).
 
 ---
-*Desarrollado por [Tu Nombre] como proyecto de portafolio.*
+*Desarrollado por Luighy (Crak_10) como proyecto de portafolio.*

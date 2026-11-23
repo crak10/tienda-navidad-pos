@@ -10,3 +10,5 @@ Thumbs.db
 # Archivos de instalación temporales
 instalar.php
 reset.php
+
+!schema.sql
