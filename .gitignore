@@ -1,0 +1,12 @@
+# Archivos de configuración privados (NUNCA subir)
+config/
+.env
+*.sql
+
+# Carpetas de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de instalación temporales
+instalar.php
+reset.php

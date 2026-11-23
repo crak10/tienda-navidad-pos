@@ -1,0 +1,17 @@
+/* Ajustes móviles para una persona no técnica: botones grandes y claros */
+body {
+  -webkit-tap-highlight-color: transparent;
+  padding-bottom: env(safe-area-inset-bottom);
+}
+main.container { max-width: 640px; }
+
+/* Hacer los botones más redondeados y grandes */
+.btn { border-radius: .75rem; }
+.btn-lg { font-size: 1.1rem; font-weight: 600; }
+
+/* Tarjetas con sombra suave */
+.card { border-radius: 1rem; border: none; box-shadow: 0 4px 12px rgba(0,0,0,.05); }
+.list-group-item { padding: 1rem; }
+
+/* Inputs más grandes */
+.form-control, .form-select { font-size: 1.1rem; }

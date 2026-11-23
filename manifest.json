@@ -1,0 +1,20 @@
+{
+  "name": "Tienda Navideña",
+  "short_name": "Tienda",
+  "description": "Sistema de ventas simple para tienda pequeña",
+  "start_url": "./dashboard.php",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#4A3ACF",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "assets/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
